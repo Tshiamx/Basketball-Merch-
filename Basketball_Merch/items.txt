@@ -1,0 +1,15 @@
+Celtics,CR01,images/items/Celtics.jpg,1200
+Clippers Dark,CLD02,images/items/clippers Dark.jpg,1200
+Clippers,CL03,images/items/Clippers.jpg,1200
+Knicks,KN04,images/items/Knicks.jpg,1200
+Lakers,LA05,images/items/Lakers.jpg,1200
+Luka Doncic Mavericks,LDM06,images/items/Luka Doncic Mavericks.jpg,1200
+Nets,NT07,images/items/Nets.jpg,1200
+Pistons,PI08,images/items/Pistons.jpg,1200
+Raptors,RAP09,images/items/Raptors.jpg,1200
+Rockets Red,ROCR10,images/items/Rockets Red.jpg,1200
+Rocktes James Harden,RJH11,images/items/Rocktes James Harden.jpg,1200
+Thunder,THU12,images/items/Thunder.jpg,1200
+Utah,UTA13,images/items/Utah.jpg,1200
+warriors mvp,WMVP14,images/items/warriors mvp.jpg,1200
+Warriors,WAR15,images/items/Warriors.jpg,1200
